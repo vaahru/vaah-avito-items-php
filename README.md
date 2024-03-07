@@ -20,11 +20,11 @@ To install the bindings via [Composer](http://getcomposer.org/), add the followi
   "repositories": [
     {
       "type": "git",
-      "url": "https://github.com/git_user_id/git_repo_id.git"
+      "url": "https://github.com/vaahru/vaah-avito-items-php.git"
     }
   ],
   "require": {
-    "git_user_id/git_repo_id": "*@dev"
+    "vaahru/vaah-avito-items-php": "*@dev"
   }
 }
 ```
